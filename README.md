@@ -32,6 +32,8 @@ Should end with output like below
 
 # Notes
 
+For more details on this issue and more troubleshooting check my answer at http://stackoverflow.com/questions/17844957/running-simple-junit-tests-on-android-studio-intellij-when-using-a-gradle-base
+
 I created a sample project using the Android Studio wizard. 
 
 Next I followed the steps at https://github.com/robolectric/robolectric-gradle-plugin to configure everything for the junit tests. The only difference is that I had to add the junit dependency using 
